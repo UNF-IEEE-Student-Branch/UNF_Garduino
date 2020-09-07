@@ -1,2 +1,3 @@
 # UNF_Garduino
-UNF IEEE branch Ogier Gardens open source garden bed project
+![IEEE Logo](/media/images/Garduino Logo.png)
+**UNF IEEE branch Ogier Gardens open source garden bed project**
