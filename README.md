@@ -8,7 +8,6 @@
 * Has gone through numerous iterations
 * Garden Bed Housed by UNF Ogier Gardens https://www.unf.edu/recwell/gardens/
 * Designed to bring intuitive, affordable smart gardening to the hands of UNF IEEE members and other parties within the UNF community
-* 
 
 # Why YOU are Needed
 
@@ -40,8 +39,12 @@ Date of Desired Achievement | Description
 
 # How to get Involved
 
+**Join us on the UNF IEEE perch portal** ![Perch Portal QR](https://github.com/UNF-IEEE-Student-Branch/UNF_Garduino/blob/master/media/images/UNF%20IEEE%20Perch%20Portal%20QR.png)
+
+**Join us on the UNF IEEE website** ![IEEE website QR](https://github.com/UNF-IEEE-Student-Branch/UNF_Garduino/blob/master/media/images/UNF%20IEEE%20Website%20QR.png)
 
 # Disclaimer Due to COVID-19
 
 _Visiting UNF community members will be limited to 4 at a time in the garden_
+
 _Visiting UNF community members will be required to take seperate vehicles_
