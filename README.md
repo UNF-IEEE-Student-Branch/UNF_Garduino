@@ -37,6 +37,13 @@ Date of Desired Achievement | Description
 11/13/2020 | Basic Watering Cycle Implementation
 12/04/2020 | Rudimentary Data Analysis (Serverside)
 
+# Wanna Learn about git and Github?
+
+Complete Github walkthrough: docs.github.com
+The steps to creating a project repository: https://guides.github.com/activities/hello-world/
+Wanna learn git commands:  https://dzone.com/articles/top-20-git-commands-with-examples
+How to create Professional "README"s for each file: https://guides.github.com/features/mastering-markdown/
+
 # How to get Involved
 
 **Join us on the UNF IEEE perch portal** ![Perch Portal QR](https://github.com/UNF-IEEE-Student-Branch/UNF_Garduino/blob/master/media/images/UNF%20IEEE%20Perch%20Portal%20QR.png)
