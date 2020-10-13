@@ -39,10 +39,10 @@ Date of Desired Achievement | Description
 
 # Wanna Learn about git and Github?
 
-Complete Github walkthrough: docs.github.com
-The steps to creating a project repository: https://guides.github.com/activities/hello-world/
-Wanna learn git commands:  https://dzone.com/articles/top-20-git-commands-with-examples
-How to create Professional "README"s for each file: https://guides.github.com/features/mastering-markdown/
+* Complete Github walkthrough: docs.github.com
+* The steps to creating a project repository: https://guides.github.com/activities/hello-world/
+* Wanna learn git commands:  https://dzone.com/articles/top-20-git-commands-with-examples
+* How to create Professional "README"s for each file: https://guides.github.com/features/mastering-markdown/
 
 # How to get Involved
 
